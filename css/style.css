@@ -320,12 +320,12 @@ h3{
 }
 
 @keyframes answer{
-    0%{transform:scale(2);visibility:visible;};
-    20%{transform:scale(3);visibility:visible}
-    40%{transform:scale(4);visibility:visible}
-    60%{transform:scale(3);visibility:visible}
-    80%{transform:scale(2);visibility:visible}
-    100%{transform:scale(1);visibility:visible}
+    0%{transform:scale(1);visibility:visible;};
+    20%{transform:scale(2);visibility:visible}
+    40%{transform:scale(3);visibility:visible}
+    60%{transform:scale(2);visibility:visible}
+    80%{transform:scale(3);visibility:visible}
+    100%{transform:scale(2);visibility:visible}
 }
 
 
