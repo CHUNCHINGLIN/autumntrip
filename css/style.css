@@ -78,6 +78,10 @@ font-family: 'Noto Sans TC', sans-serif;
     /* animation: blinking 2s linear infinite alternate-reverse; */
 }
 
+#mainTitle:hover{
+    color:skyblue;
+}
+
 #div1{
     
     background-color:none;
